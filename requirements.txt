@@ -1,9 +1,0 @@
-pandas
-scikit-learn
-transformers
-torch
-joblib
-flask
-beautifulsoup4
-requests
-sentence-transformers
