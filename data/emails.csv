@@ -1,0 +1,5 @@
+ID del cliente,Asunto,Cuerpo,Categoria
+123,Consulta sobre cuenta,"Hola, quiero saber mi CVU por favor",Consultas de Banking
+456,Problema con tarjeta,"Perdí mi tarjeta, ¿qué hago?",Consultas de Tarjeta
+789,Bitcoin,"¿Puedo retirar mis bitcoins a otra billetera?",Consultas de Crypto
+321,Qué es Lemon Earn,"Quiero saber cómo funciona el programa de inversión",Otro

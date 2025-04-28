@@ -1,0 +1,41 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+
+# Archivos de modelos y datos generados
+models/
+*.joblib
+data/emails_output.csv
+
+# Archivos de HuggingFace (transformers)
+~/.cache/
+.cache/
+huggingface/
+*.safetensors
+
+# Archivos generados por el sistema
+*.sqlite
+*.db
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos VSCode y editor
+.vscode/
+.idea/
+
+# Mac y Linux
+Thumbs.db
